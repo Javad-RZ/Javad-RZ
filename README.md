@@ -1,4 +1,4 @@
-# Hi, I'm Javad 👋
+# Hi, I'm Javad <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I'm a Python developer passionate about building bots, APIs, and backend tools.
 
